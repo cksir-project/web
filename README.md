@@ -1,1 +1,2 @@
 # web
+theme: minima
